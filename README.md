@@ -1,1 +1,1 @@
-# disruptors-and-policies
+The disruptors&policies.zip file consists of the data and codes used to produce the results of the manuscript entitled “Safeguarding China’s long-term sustainability against systemic disruptors” which was submitted to Nature Sustainability.
